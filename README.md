@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Vo Tan Loi, a **Third - year student** (at Ton Duc Thang University**). I am also Pursuing my Bachelor in **Software Engineering** and will graduate in 2024.
+🎓 I am Vo Tan Loi, a **Third - year student** (**at Ton Duc Thang University**). I am also Pursuing my Bachelor in **Software Engineering** and will graduate in 2024.
 
 ## 🏅 Achievements
 
@@ -10,8 +10,9 @@
 
 ### Languages
 
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Front-End Development
 
@@ -22,7 +23,6 @@
 
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
 
-
 ### Design Tools
 
 ### Testing
@@ -31,6 +31,7 @@
 
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+![intellij-idea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ## 🔗 Links
 
