@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Vo Tan Loi, a **Third - year student** (**at Ton Duc Thang University**). I am also Pursuing my Bachelor in **Software Engineering** and will graduate in 2024.
+🎓 I am Vo Tan Loi, a **Final - year student** (**at Ton Duc Thang University**). I am also Pursuing my Bachelor in **Software Engineering** and will graduate in 2024.
 
 ## 🏅 Achievements
 
